@@ -1,4 +1,4 @@
-# 💫 About Me
+#  About Me
 **Name:** Vinamra Gupta  
 **Tagline:** Java Backend Developer | BCA Student  
 
