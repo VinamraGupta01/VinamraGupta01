@@ -1,48 +1,45 @@
 # 👋 About Me
+
 **Name:** Vinamra Gupta  
 **Tagline:** Java Backend Developer | BCA Student  
 
 ---
 
 ## 👨‍💻 About Me
-I am a BCA student focused on **Java backend development**. I am building a strong foundation in **Core Java, OOP, and Data Structures**, with the long-term goal of becoming a **backend software engineer**.
+I am a BCA student focused on **Java backend development**. I am building a strong foundation in **Core Java, OOP, and Data Structures** with the goal of becoming a backend software engineer.
 
-My learning approach emphasizes **clean code, strong fundamentals, and real-world problem solving** rather than shortcuts or surface-level knowledge.
+I believe in **clean code, strong fundamentals, and consistent learning**.
 
 ---
 
 ## 🔧 Currently Working On
-- Small **Java backend modules** (account management, authentication logic, basic payment flows)
-- Strengthening **OOP design**, modular coding, and backend thinking
+- Java backend modules (account management, authentication, basic payment logic)
+- Improving OOP design and backend architecture thinking
 
 ---
 
 ## 🤝 Collaboration
 Open to collaborating on:
-- Beginner-friendly **Java backend projects**
-- Open-source learning repositories
-- Practice systems (user management, booking systems, payment simulations)
+- Beginner-friendly Java backend projects  
+- Open-source learning repositories  
+- Practice systems like user management or booking systems  
 
 ---
 
-## 📚 Learning & Growth
-- **Currently Learning:** Core Java, OOP, Git & GitHub, backend fundamentals, DSA  
-- **Looking for Help With:**  
-  - Java backend best practices  
-  - Project structuring  
-  - Building a strong GitHub portfolio  
-  - Backend interview preparation  
+## 📚 Learning
+- **Currently Learning:** Core Java, OOP, Git & GitHub, backend fundamentals, basic DSA  
+- **Looking for Help With:** Java backend best practices, project structure, GitHub portfolio building  
 
 ---
 
 ## 🛠 Skills
 
-### Primary
+**Primary**
 - Java  
 - MySQL  
 - Git & GitHub  
 
-### Familiar With / Learning
+**Familiar With / Learning**
 - Python  
 - C  
 - PHP  
@@ -52,33 +49,21 @@ Open to collaborating on:
 
 ---
 
-## 💬 Ask Me About
-- Core Java & OOP concepts  
-- Abstract classes, interfaces, method overriding  
-- Designing beginner-friendly backend systems  
-
----
-
-## ⚡ Fun Fact
-I enjoy breaking complex programming concepts into **simple, logical steps** and improving **consistently every day**.
-
----
-
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinamragupta)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinamragupta)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinamra.gupta.dev@gmail.com)
 
 ---
 
 ## 💻 Tech Stack
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
