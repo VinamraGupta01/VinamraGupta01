@@ -72,17 +72,13 @@ Beginner-friendly project demonstrating file handling and billing logic.
 
 ## 📈 GitHub Stats
 
-⚠️ **Do not modify anything below this section**
-(Keep your existing stats code exactly as it is.)
+![](https://github-readme-stats.vercel.app/api?username=VinamraGupta01&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=VinamraGupta01&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VinamraGupta01&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-```md
-<!-- KEEP YOUR EXISTING GITHUB STATS CODE EXACTLY AS IT IS BELOW THIS LINE -->
+---
+[![](https://visitcount.itsvg.in/api?id=VinamraGupta01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[Your existing GitHub stats card code here]
-```
-
-👉 Paste your current stats code exactly where mentioned.
-Do not regenerate it. Do not change username. Do not change parameters.
 
 ---
 
