@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vinamra Gupta</h1>
 
 <h3 align="center">
-Java Backend Developer • Spring Boot Enthusiast • BCA Student
+Java Backend Developer | Spring Boot Enthusiast | BCA Student
 </h3>
 
 <p align="center">
-Building real-world backend applications with Java, Spring Boot, MySQL and React.
+Building scalable backend applications with Java, Spring Boot, MySQL, React, and Docker.
 </p>
 
 ---
@@ -14,13 +14,13 @@ Building real-world backend applications with Java, Spring Boot, MySQL and React
 
 🎓 BCA Student (4th Semester)
 
-💻 Focused on Backend Development using Java & Spring Boot
+💻 Passionate about Backend Development and Software Engineering
 
-🔐 Interested in Authentication, Security, REST APIs and Database Design
+🔐 Interested in Spring Security, JWT Authentication, REST APIs, and Database Design
 
-🚀 Currently building production-style full-stack applications
+🚀 Building real-world full-stack applications instead of tutorial projects
 
-🎯 Goal: Secure a Backend Development Internship and grow into a Software Engineer role
+🎯 Goal: Become an industry-ready Software Engineer and secure a strong backend internship
 
 ---
 
@@ -38,26 +38,26 @@ Building real-world backend applications with Java, Spring Boot, MySQL and React
 
 ### 🚀 PlacementPro
 
-Full Stack Placement Management System
+Full-Stack Placement Management System
 
-✅ Spring Boot REST API
+✅ Spring Boot REST APIs
 
 ✅ JWT Authentication & Authorization
 
-✅ MySQL Database
+✅ Role-Based Access Control
 
 ✅ Resume Upload System
 
-✅ Role-Based Access
+✅ MySQL Database Integration
 
 ✅ Swagger API Documentation
 
 ✅ Dockerized Deployment
 
-🔗 Live Demo:
+🌐 Live Demo:
 https://placementpro-podx.onrender.com
 
-🔗 Repository:
+📂 Repository:
 https://github.com/VinamraGupta01/PlacementPro
 
 ---
@@ -68,81 +68,67 @@ Fitness Tracking Platform
 
 ✅ Spring Boot Backend
 
-✅ Readiness Monitoring
-
-✅ Recovery Tracking
+✅ Readiness & Recovery Tracking
 
 ✅ Dashboard Analytics
 
 ✅ MySQL Integration
 
+✅ RESTful API Architecture
+
 ---
 
 ## 📚 Currently Learning
 
-• Spring Security
-
-• JWT Authentication
-
-• Docker
-
-• System Design Fundamentals
-
-• Data Structures & Algorithms
-
-• Production Backend Architecture
+- Spring Security
+- JWT Authentication
+- Docker
+- System Design Fundamentals
+- Data Structures & Algorithms
+- Production Backend Architecture
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VinamraGupta01&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VinamraGupta01&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinamraGupta01&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinamraGupta01&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=VinamraGupta01&theme=tokyonight"/>
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=VinamraGupta01&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🎯 2026 Goals
 
-<div align="center">
+✅ Build production-ready Spring Boot projects
 
-<img src="https://github-profile-trophy.vercel.app/?username=VinamraGupta01&theme=tokyonight&row=1&column=6"/>
+✅ Strengthen DSA and problem-solving skills
 
-</div>
+✅ Contribute consistently on GitHub
 
----
+✅ Secure a Backend Development Internship
 
-## 👀 Profile Visitors
-
-<div align="center">
-
-<img src="https://visitcount.itsvg.in/api?id=VinamraGupta01&icon=5&color=6"/>
-
-</div>
+✅ Learn Docker and deployment workflows
 
 ---
 
-## 🕹️ Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/VinamraGupta01/VinamraGupta01/output/pacman-contribution-graph-dark.svg">
-  <img alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/VinamraGupta01/VinamraGupta01/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 💼 Open to Internship Opportunities
 
-📧 Reach me through GitHub
+🌱 Always Learning
 
-🌟 Always excited to collaborate on Java Backend Projects
+🚀 Always Building
+
+⭐ Feel free to explore my repositories and connect!
