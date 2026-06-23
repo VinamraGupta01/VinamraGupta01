@@ -1,92 +1,148 @@
+<h1 align="center">Hi 👋, I'm Vinamra Gupta</h1>
+
+<h3 align="center">
+Java Backend Developer • Spring Boot Enthusiast • BCA Student
+</h3>
+
+<p align="center">
+Building real-world backend applications with Java, Spring Boot, MySQL and React.
+</p>
 
 ---
 
-# 👋 Hi, I'm Vinamra Gupta
+## 🚀 About Me
 
-### 🚀 Java Backend Developer | BCA Student | Building with Consistency
+🎓 BCA Student (4th Semester)
 
----
+💻 Focused on Backend Development using Java & Spring Boot
 
-## 💡 About Me
+🔐 Interested in Authentication, Security, REST APIs and Database Design
 
-🎓 I'm currently a **BCA 4th Semester student**
-💻 Focused on becoming an **industry-ready Backend Developer**
-🔥 Primary stack: **Java + Backend Development**
-🎯 Goal: Crack strong product-based / FAANG-level companies
+🚀 Currently building production-style full-stack applications
 
-I believe in consistency, clean code, and building real projects instead of just consuming tutorials.
+🎯 Goal: Secure a Backend Development Internship and grow into a Software Engineer role
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+<div align="center">
 
-* Java
-* Python
-* C
-* PHP
-* HTML & CSS
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,react,js,html,css,git,github,docker,postman,vscode,idea" />
 
-### 🗄️ Database
-
-* MySQL
-* SQLite
-
-### 🧰 Tools
-
-* Git & GitHub
-* VS Code
-* IntelliJ IDEA
-
----
-
-## 📚 Currently Working On
-
-* Strengthening **Core Java & OOP concepts**
-* Backend architecture fundamentals
-* Writing cleaner, production-style repository structures
-* Improving DSA for interviews
+</div>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 Java Backend Journey
+### 🚀 PlacementPro
 
-Structured backend learning repository focused on clean project structure, modular coding, and real-world backend fundamentals.
+Full Stack Placement Management System
 
-### 🔹 Python ATM Simulator
+✅ Spring Boot REST API
 
-CLI-based ATM simulation project demonstrating OOP principles and logical structuring.
+✅ JWT Authentication & Authorization
 
-### 🔹 Python GUI Calculator
+✅ MySQL Database
 
-GUI-based calculator built using Python libraries to understand event-driven programming.
+✅ Resume Upload System
 
-### 🔹 Retail Bill Generator
+✅ Role-Based Access
 
-Beginner-friendly project demonstrating file handling and billing logic.
+✅ Swagger API Documentation
 
----
+✅ Dockerized Deployment
 
-## 📈 GitHub Stats
+🔗 Live Demo:
+https://placementpro-podx.onrender.com
 
-![](https://github-readme-stats.vercel.app/api?username=VinamraGupta01&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=VinamraGupta01&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VinamraGupta01&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=VinamraGupta01&icon=0&color=0)](https://visitcount.itsvg.in)
-
+🔗 Repository:
+https://github.com/VinamraGupta01/PlacementPro
 
 ---
 
-## 🤝 Let's Connect
+### 🏋️ FitTrack
 
-📬 Open to collaboration on backend & beginner-friendly projects
-💼 Actively working towards becoming a strong backend engineer
+Fitness Tracking Platform
+
+✅ Spring Boot Backend
+
+✅ Readiness Monitoring
+
+✅ Recovery Tracking
+
+✅ Dashboard Analytics
+
+✅ MySQL Integration
 
 ---
 
+## 📚 Currently Learning
 
+• Spring Security
+
+• JWT Authentication
+
+• Docker
+
+• System Design Fundamentals
+
+• Data Structures & Algorithms
+
+• Production Backend Architecture
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=VinamraGupta01&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinamraGupta01&layout=compact&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=VinamraGupta01&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=VinamraGupta01&theme=tokyonight&row=1&column=6"/>
+
+</div>
+
+---
+
+## 👀 Profile Visitors
+
+<div align="center">
+
+<img src="https://visitcount.itsvg.in/api?id=VinamraGupta01&icon=5&color=6"/>
+
+</div>
+
+---
+
+## 🕹️ Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/VinamraGupta01/VinamraGupta01/output/pacman-contribution-graph-dark.svg">
+  <img alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/VinamraGupta01/VinamraGupta01/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+## 🤝 Connect With Me
+
+💼 Open to Internship Opportunities
+
+📧 Reach me through GitHub
+
+🌟 Always excited to collaborate on Java Backend Projects
