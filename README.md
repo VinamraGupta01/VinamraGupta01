@@ -132,3 +132,16 @@ Fitness Tracking Platform
 🚀 Always Building
 
 ⭐ Feel free to explore my repositories and connect!
+
+## 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/VinamraGupta01/VinamraGupta01/output/pacman-contribution-graph-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/VinamraGupta01/VinamraGupta01/output/pacman-contribution-graph.svg">
+
+  <img alt="Pacman contribution graph"
+    src="https://raw.githubusercontent.com/VinamraGupta01/VinamraGupta01/output/pacman-contribution-graph.svg">
+</picture>
