@@ -138,15 +138,6 @@ Fitness Tracking Platform
 
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=VinamraGupta01&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
-
----
 
 # 🎯 2026 Goals
 
