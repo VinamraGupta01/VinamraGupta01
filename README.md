@@ -1,30 +1,50 @@
 <h1 align="center">Hi 👋, I'm Vinamra Gupta</h1>
 
 <h3 align="center">
-Java Backend Developer | Spring Boot Enthusiast | BCA Student
+Java Backend Developer • Spring Boot Enthusiast • BCA Student
 </h3>
 
 <p align="center">
-Building scalable backend applications with Java, Spring Boot, MySQL, React, and Docker.
+Building scalable backend systems with Java, Spring Boot, MySQL, React and Docker.
+</p>
+
+<p align="center">
+
+<a href="https://github.com/VinamraGupta01">
+<img src="https://img.shields.io/github/followers/VinamraGupta01?label=Followers&style=for-the-badge">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=VinamraGupta01&label=Profile+Views&color=blue&style=for-the-badge">
+
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 🎓 BCA Student (4th Semester)
 
-💻 Passionate about Backend Development and Software Engineering
+💻 Passionate about Backend Development & Software Engineering
 
-🔐 Interested in Spring Security, JWT Authentication, REST APIs, and Database Design
+⚡ Building real-world full-stack applications instead of tutorial projects
 
-🚀 Building real-world full-stack applications instead of tutorial projects
+🔐 Interested in:
 
-🎯 Goal: Become an industry-ready Software Engineer and secure a strong backend internship
+- Spring Boot
+- Spring Security
+- JWT Authentication
+- REST APIs
+- Database Design
+- Docker
+- System Design
+
+🎯 Goal:
+
+Become an industry-ready Backend Engineer and secure a strong Software Development Internship.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
@@ -34,11 +54,13 @@ Building scalable backend applications with Java, Spring Boot, MySQL, React, and
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
-### 🚀 PlacementPro
+## 🚀 PlacementPro
 
-Full-Stack Placement Management System
+Production-style Placement Management System
+
+### Features
 
 ✅ Spring Boot REST APIs
 
@@ -48,48 +70,55 @@ Full-Stack Placement Management System
 
 ✅ Resume Upload System
 
-✅ MySQL Database Integration
+✅ MySQL Database
 
-✅ Swagger API Documentation
+✅ Swagger Documentation
 
-✅ Dockerized Deployment
+✅ Docker Deployment
 
-🌐 Live Demo:
-https://placementpro-podx.onrender.com
+### Live Demo
 
-📂 Repository:
-https://github.com/VinamraGupta01/PlacementPro
+🔗 https://placementpro-podx.onrender.com
+
+### Repository
+
+🔗 https://github.com/VinamraGupta01/PlacementPro
 
 ---
 
-### 🏋️ FitTrack
+## 🏋️ FitTrack
 
 Fitness Tracking Platform
 
-✅ Spring Boot Backend
+### Features
 
-✅ Readiness & Recovery Tracking
+✅ Spring Boot Backend
 
 ✅ Dashboard Analytics
 
+✅ Readiness Tracking
+
+✅ Recovery Monitoring
+
 ✅ MySQL Integration
 
-✅ RESTful API Architecture
+✅ RESTful Architecture
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
 - Spring Security
 - JWT Authentication
 - Docker
-- System Design Fundamentals
+- CI/CD Pipelines
+- System Design
 - Data Structures & Algorithms
 - Production Backend Architecture
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -109,31 +138,53 @@ Fitness Tracking Platform
 
 ---
 
-## 🎯 2026 Goals
+# 🏆 GitHub Achievements
 
-✅ Build production-ready Spring Boot projects
+<div align="center">
 
-✅ Strengthen DSA and problem-solving skills
+<img src="https://github-profile-trophy.vercel.app/?username=VinamraGupta01&theme=tokyonight&no-frame=true&row=1&column=7" />
 
-✅ Contribute consistently on GitHub
-
-✅ Secure a Backend Development Internship
-
-✅ Learn Docker and deployment workflows
+</div>
 
 ---
 
-## 🤝 Let's Connect
+# 🎯 2026 Goals
 
-💼 Open to Internship Opportunities
+✅ Build Production-Ready Spring Boot Applications
 
-🌱 Always Learning
+✅ Master Backend Development
 
-🚀 Always Building
+✅ Improve DSA & Problem Solving
 
-⭐ Feel free to explore my repositories and connect!
+✅ Learn Docker & Cloud Deployment
 
-## 🐍 Contribution Graph
+✅ Contribute Consistently on GitHub
+
+✅ Secure a Backend Development Internship
+
+---
+
+# 📬 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/vinamra-gupta-0aa4b4375">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:vinamra.gupta.dev@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</p>
+
+📧 Email: **vinamra.gupta.dev@gmail.com**
+
+💼 LinkedIn: **www.linkedin.com/in/vinamra-gupta-0aa4b4375**
+
+---
+
+# 🐍 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -145,3 +196,11 @@ Fitness Tracking Platform
   <img alt="Pacman contribution graph"
     src="https://raw.githubusercontent.com/VinamraGupta01/VinamraGupta01/output/pacman-contribution-graph.svg">
 </picture>
+
+---
+
+<p align="center">
+
+⭐ If you like my work, consider giving a star to my repositories.
+
+</p>
