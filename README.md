@@ -31,12 +31,29 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
+
+<div align="center">
+
+### `Backend-Focused Full-Stack Developer`
+
+**Java • Spring Boot • REST APIs • Spring Security • PostgreSQL • React • Docker**
+
+</div>
+
+I'm **Vinamra Gupta**, a BCA student and developer focused on building a strong foundation in **backend engineering, scalable application development, and modern full-stack architecture**.
+
+My primary focus is the **Java + Spring ecosystem**, where I'm learning how real-world backend systems are designed — from object-oriented programming and database modeling to RESTful APIs, authentication, persistence, testing, containerization, and deployment.
+
+I enjoy building complete applications rather than isolated demos. My projects involve designing backend architecture, implementing business logic, connecting databases, securing APIs, building frontend interfaces, and taking applications toward deployment.
+
+### 🧑‍💻 Developer Profile
 
 ```java
 public class VinamraGupta {
 
-    String role = "Backend-Focused Full-Stack Developer";
+    String role =
+            "Backend-Focused Full-Stack Developer";
 
     String primaryStack =
             "Java + Spring Boot + REST APIs";
@@ -50,11 +67,20 @@ public class VinamraGupta {
     String security =
             "Spring Security + JWT";
 
+    String persistence =
+            "Spring Data JPA + Hibernate";
+
     String devOps =
-            "Docker + Git + GitHub";
+            "Docker + Git + GitHub Actions";
+
+    String engineeringFocus =
+            "Clean Code + API Design + Scalable Architecture";
+
+    String currentFocus =
+            "Advanced Java + Spring Boot + DSA + System Design";
 
     String mindset =
-            "Build → Learn → Improve → Repeat";
+            "Build → Learn → Debug → Improve → Repeat";
 
     String goal =
             "Become an industry-ready backend engineer";
