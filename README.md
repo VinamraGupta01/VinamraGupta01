@@ -1,88 +1,141 @@
 <!-- ========================================================= -->
 <!--                    VINAMRA GUPTA                          -->
-<!--              GitHub Profile README                        -->
+<!--                 GitHub Profile README                     -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=220&section=header&text=Vinamra%20Gupta&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Backend-Focused%20Full-Stack%20Developer&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,75:1d4ed8,100:38bdf8&height=230&section=header&text=VINAMRA%20GUPTA&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=BACKEND-FOCUSED%20FULL-STACK%20DEVELOPER&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Java+%7C+Spring+Boot+%7C+REST+APIs;Backend-Focused+Full-Stack+Developer;Building+Scalable+%26+Production-Ready+Applications;Spring+Security+%7C+JPA+%7C+PostgreSQL+%7C+Docker;Always+Learning.+Always+Building." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Java+%7C+Spring+Boot+%7C+REST+APIs;Backend+Architecture+%7C+Security+%7C+Databases;React+%7C+Docker+%7C+Git+%7C+Cloud;Building+Scalable+%26+Production-Ready+Applications" alt="Typing SVG"/>
 
 <br/><br/>
 
 <a href="https://github.com/VinamraGupta01">
-<img src="https://img.shields.io/badge/GitHub-VinamraGupta01-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-VinamraGupta01-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/vinamra-gupta-0aa4b4375/">
 <img src="https://img.shields.io/badge/LinkedIn-Vinamra%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:vinamra.gupta.dev@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=VinamraGupta01&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=VinamraGupta01&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# `01` — ENGINEERING PROFILE
 
-<div align="center">
+### Backend-focused developer building reliable, secure and scalable web applications.
 
-### `Backend-Focused Full-Stack Developer`
+I work primarily with **Java and Spring Boot**, with a strong focus on backend architecture, RESTful APIs, authentication, database design and clean application structure.
 
-**Java • Spring Boot • REST APIs • Spring Security • PostgreSQL • React • Docker**
+On the frontend, I use **React** to build modern interfaces and connect them with production-oriented backend systems.
 
-</div>
+My current engineering focus is around:
 
-I'm **Vinamra Gupta**, a BCA student and developer focused on building a strong foundation in **backend engineering, scalable application development, and modern full-stack architecture**.
+- Designing clean and maintainable backend architectures
+- Building secure REST APIs with Spring Security & JWT
+- Working with relational and NoSQL databases
+- Developing full-stack applications with React
+- Containerizing and deploying applications with Docker
+- Writing testable, production-oriented code
+- Strengthening DSA, system design and backend fundamentals
 
-My primary focus is the **Java + Spring ecosystem**, where I'm learning how real-world backend systems are designed — from object-oriented programming and database modeling to RESTful APIs, authentication, persistence, testing, containerization, and deployment.
+<br/>
 
-I enjoy building complete applications rather than isolated demos. My projects involve designing backend architecture, implementing business logic, connecting databases, securing APIs, building frontend interfaces, and taking applications toward deployment.
+> **Build systems. Understand the fundamentals. Ship better software.**
 
-### 🧑‍💻 Developer Profile
+---
 
-```java
-public class VinamraGupta {
+# `02` — CORE STACK
 
-    String role =
-            "Backend-Focused Full-Stack Developer";
+### Backend
 
-    String primaryStack =
-            "Java + Spring Boot + REST APIs";
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven"/>
+</p>
 
-    String frontend =
-            "React + Vite + Tailwind CSS";
+`Java` · `Spring Framework` · `Spring Boot` · `Spring Security` · `Hibernate` · `JPA` · `Maven`
 
-    String databases =
-            "PostgreSQL + MySQL + MongoDB";
+### Frontend
 
-    String security =
-            "Spring Security + JWT";
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css,js"/>
+</p>
 
-    String persistence =
-            "Spring Data JPA + Hibernate";
+`React` · `Vite` · `Tailwind CSS` · `JavaScript` · `HTML5` · `CSS3`
 
-    String devOps =
-            "Docker + Git + GitHub Actions";
+### Databases & Data
 
-    String engineeringFocus =
-            "Clean Code + API Design + Scalable Architecture";
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"/>
+</p>
 
-    String currentFocus =
-            "Advanced Java + Spring Boot + DSA + System Design";
+`PostgreSQL` · `MySQL` · `MongoDB` · `Redis`
 
-    String mindset =
-            "Build → Learn → Debug → Improve → Repeat";
+### DevOps & Engineering
 
-    String goal =
-            "Become an industry-ready backend engineer";
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,aws,linux"/>
+</p>
 
-}
+`Docker` · `Git` · `GitHub` · `GitHub Actions` · `AWS` · `Linux`
+
+### Testing & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=idea,vscode,postman"/>
+</p>
+
+`JUnit 5` · `Mockito` · `Postman` · `IntelliJ IDEA` · `VS Code`
+
+---
+
+# `03` — ENGINEERING FOCUS
+
+```text
+Backend Engineering
+├── Java
+├── OOP & Design Patterns
+├── Collections & Streams
+├── Multithreading & Concurrency
+├── Exception Handling
+└── Clean Code
+
+Spring Ecosystem
+├── Spring Framework
+├── Spring Boot
+├── Spring Security
+├── REST APIs
+├── Spring Data JPA
+└── Hibernate
+
+Data & Infrastructure
+├── PostgreSQL
+├── MySQL
+├── MongoDB
+├── Redis
+├── Docker
+└── Cloud Deployment
+
+Engineering Practices
+├── Git & GitHub
+├── API Design
+├── Authentication & Authorization
+├── Unit Testing
+├── CI/CD
+└── System Design
+
+Problem Solving
+├── Data Structures
+├── Algorithms
+├── Complexity Analysis
+└── Competitive Problem Solving
