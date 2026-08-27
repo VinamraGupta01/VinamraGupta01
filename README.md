@@ -5,30 +5,28 @@
 
 <div align="center">
 
-<!-- ======================== HEADER ========================= -->
+<!-- ========================================================= -->
+<!--                         HERO                              -->
+<!-- ========================================================= -->
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,75:1e3a8a,100:2563eb&height=230&section=header&text=VINAMRA%20GUPTA&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=BACKEND-FOCUSED%20FULL-STACK%20DEVELOPER&descAlignY=61&descSize=18&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,75:1e3a8a,100:2563eb&height=240&section=header&text=VINAMRA%20GUPTA&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=BACKEND-FOCUSED%20FULL-STACK%20DEVELOPER&descAlignY=62&descSize=18&animation=fadeIn"
   width="100%"
   alt="Vinamra Gupta"
 />
 
 <br/>
 
-<!-- ======================== TYPING ========================= -->
-
 <img
   src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=JAVA+%7C+SPRING+BOOT+%7C+REST+APIs;SPRING+SECURITY+%7C+JWT+%7C+JPA+%2F+HIBERNATE;REACT+%7C+VITE+%7C+TAILWIND+CSS;MYSQL+%7C+DOCKER+%7C+RENDER;BUILDING+REAL+%26+DEPLOYABLE+WEB+APPLICATIONS;LEARN.+BUILD.+IMPROVE."
-  alt="Typing SVG"
+  alt="Typing animation"
 />
 
 <br/><br/>
 
-<!-- ========================= LINKS ======================== -->
-
 <a href="https://github.com/VinamraGupta01">
   <img
-    src="https://img.shields.io/badge/GITHUB-VinamraGupta01-111827?style=for-the-badge&logo=github&logoColor=white"
+    src="https://img.shields.io/badge/GITHUB-VINAMRAGUPTA01-111827?style=for-the-badge&logo=github&logoColor=white"
     alt="GitHub"
   />
 </a>
@@ -37,7 +35,7 @@
 
 <a href="https://www.linkedin.com/in/vinamra-gupta-0aa4b4375/">
   <img
-    src="https://img.shields.io/badge/LINKEDIN-Vinamra%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    src="https://img.shields.io/badge/LINKEDIN-VINAMRA%20GUPTA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
   />
 </a>
@@ -53,8 +51,6 @@
 
 <br/><br/>
 
-<!-- ======================== METRICS ======================= -->
-
 <img
   src="https://komarev.com/ghpvc/?username=VinamraGupta01&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge"
   alt="Profile Views"
@@ -65,21 +61,17 @@
   alt="GitHub Followers"
 />
 
-</div>
+<br/><br/>
 
-<br/>
-
-<!-- ========================================================= -->
-<!--                       IDENTITY                            -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-## `BACKEND` · `APIs` · `DATABASES` · `SECURITY` · `FULL-STACK`
+### `BACKEND` · `APIs` · `DATABASES` · `SECURITY` · `FULL-STACK`
 
 </div>
 
 ---
+
+<!-- ========================================================= -->
+<!--                         PROFILE                           -->
+<!-- ========================================================= -->
 
 # `01` — PROFILE
 
@@ -95,10 +87,12 @@ My primary focus is **Java backend development** — designing REST APIs, implem
 
 I also work with **Docker and cloud deployment workflows**, turning projects from local applications into deployable systems.
 
+<br/>
+
 <div align="center">
 
 <img
-  src="https://img.shields.io/badge/CURRENT%20FOCUS-Backend%20Engineering%20%C2%B7%20DSA%20%C2%B7%20System%20Design-0f172a?style=for-the-badge&labelColor=020617&color=2563eb"
+  src="https://img.shields.io/badge/FOCUS-Backend%20Engineering%20%C2%B7%20DSA%20%C2%B7%20System%20Design-020617?style=for-the-badge&labelColor=020617&color=2563EB"
   alt="Current Focus"
 />
 
@@ -106,57 +100,70 @@ I also work with **Docker and cloud deployment workflows**, turning projects fro
 
 ---
 
+<!-- ========================================================= -->
+<!--                     TECHNICAL STACK                       -->
+<!-- ========================================================= -->
+
 # `02` — TECHNICAL STACK
 
 <table width="100%">
 <tr>
 
-<!-- ========================= BACKEND ====================== -->
-
 <td width="50%" valign="top">
 
-### ⚙️ Backend
+### ⚙️ BACKEND
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" alt="Backend Technologies"/>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" alt="Backend Stack"/>
 </p>
 
-**Core**
+**Languages & Frameworks**
 
-`Java 17` · `Spring Framework` · `Spring Boot`
+`Java 17`  
+`Spring Framework`  
+`Spring Boot`
 
-**Persistence & APIs**
+**Data & APIs**
 
-`Spring Data JPA` · `Hibernate` · `REST APIs`
+`Spring Data JPA`  
+`Hibernate`  
+`REST APIs`
 
 **Security & Build**
 
-`Spring Security` · `JWT` · `Maven`
+`Spring Security`  
+`JWT`  
+`Maven`
 
 </td>
 
-<!-- ========================= FRONTEND ===================== -->
-
 <td width="50%" valign="top">
 
-### 🎨 Frontend
+### 🎨 FRONTEND
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,javascript,html,css" alt="Frontend Technologies"/>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,javascript,html,css" alt="Frontend Stack"/>
 </p>
 
 **Core**
 
-`React` · `Vite` · `Tailwind CSS`
+`React`  
+`Vite`  
+`Tailwind CSS`
 
 **Languages**
 
-`JavaScript` · `HTML5` · `CSS3`
+`JavaScript`  
+`HTML5`  
+`CSS3`
 
 **Libraries**
 
-`React Router` · `Axios` · `Recharts`  
-`Framer Motion` · `React Toastify`
+`React Router`  
+`Axios`  
+`Recharts`  
+`Framer Motion`  
+`React Toastify`
 
 </td>
 
@@ -164,33 +171,38 @@ I also work with **Docker and cloud deployment workflows**, turning projects fro
 
 <tr>
 
-<!-- ========================= DATABASE ===================== -->
-
 <td width="50%" valign="top">
 
-### 🗄️ Database
+### 🗄️ DATABASE
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="Database Technologies"/>
+<img src="https://skillicons.dev/icons?i=mysql" alt="Database Stack"/>
 </p>
 
-`MySQL` · `H2`
+`MySQL`  
+`H2`
+
+**Focus**
+
+Relational Data Modeling  
+Database Integration  
+JPA Persistence
 
 </td>
 
-<!-- ========================= SECURITY ===================== -->
-
 <td width="50%" valign="top">
 
-### 🔐 Security
+### 🔐 SECURITY
 
 **Authentication**
 
-`Spring Security` · `JWT Authentication`
+`Spring Security`  
+`JWT Authentication`
 
 **Authorization**
 
-`Protected REST APIs` · `Role-Based Authorization`
+`Protected REST APIs`  
+`Role-Based Authorization`
 
 </td>
 
@@ -198,33 +210,35 @@ I also work with **Docker and cloud deployment workflows**, turning projects fro
 
 <tr>
 
-<!-- ========================= DEVOPS ======================= -->
-
 <td width="50%" valign="top">
 
-### 🚀 DevOps & Deployment
+### 🚀 DEVOPS & DEPLOYMENT
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github" alt="DevOps Technologies"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github" alt="DevOps Stack"/>
 </p>
 
-`Docker` · `Git` · `GitHub`
+`Docker`  
+`Git`  
+`GitHub`
 
-`Render` · `Vercel` · `Railway`
+`Render`  
+`Vercel`  
+`Railway`
 
 </td>
 
-<!-- ========================= TOOLS ======================== -->
-
 <td width="50%" valign="top">
 
-### 🛠️ Development Tools
+### 🛠️ DEVELOPMENT TOOLS
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman" alt="Development Tools"/>
+<img src="https://skillicons.dev/icons?i=vscode,postman" alt="Development Tools"/>
 </p>
 
-`VS Code` · `Postman` · `Maven`
+`VS Code`  
+`Postman`  
+`Maven`
 
 </td>
 
@@ -232,6 +246,10 @@ I also work with **Docker and cloud deployment workflows**, turning projects fro
 </table>
 
 ---
+
+<!-- ========================================================= -->
+<!--                    ENGINEERING FOCUS                      -->
+<!-- ========================================================= -->
 
 # `03` — ENGINEERING FOCUS
 
@@ -241,7 +259,7 @@ I also work with **Docker and cloud deployment workflows**, turning projects fro
 |:---:|:---:|:---:|:---:|
 | REST APIs | MySQL / H2 | Spring Security | React |
 | Spring Boot | JPA / Hibernate | JWT | Vite |
-| Business Logic | Relational Data Modeling | Authentication | Tailwind CSS |
+| Business Logic | Relational Modeling | Authentication | Tailwind CSS |
 | Layered Architecture | Database Integration | Authorization | API Integration |
 
 </div>
@@ -251,29 +269,31 @@ I also work with **Docker and cloud deployment workflows**, turning projects fro
 <div align="center">
 
 ```text
-                         APPLICATION
-                              │
-                   ┌──────────┴──────────┐
-                   │                     │
-                FRONTEND              BACKEND
-                   │                     │
-             React / Vite          Spring Boot
-                   │                     │
-            REST API Calls         Business Logic
-                   │                     │
-                   │              Spring Security
-                   │                     │
-                   │                    JWT
-                   │                     │
-                   └──────────┬──────────┘
-                              │
-                           JPA /
-                          Hibernate
-                              │
-                            MySQL
-                              │
-                         Deployment
-                              │
-                   Docker · Render · Vercel
-                              │
-                           Railway
+                           APPLICATION
+                                │
+                 ┌──────────────┴──────────────┐
+                 │                             │
+              FRONTEND                      BACKEND
+                 │                             │
+           React / Vite                  Spring Boot
+                 │                             │
+          REST API Calls                 Business Logic
+                 │                             │
+                 │                      Spring Security
+                 │                             │
+                 │                            JWT
+                 │                             │
+                 └──────────────┬──────────────┘
+                                │
+                             JPA /
+                           Hibernate
+                                │
+                              MySQL
+                                │
+                           Deployment
+                                │
+                  ┌─────────────┼─────────────┐
+                  │             │             │
+                Docker        Render        Vercel
+                                              │
+                                           Railway
