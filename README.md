@@ -272,40 +272,6 @@ Explore the full set of repositories, including work-in-progress backend experim
 
 </div>
 
-<details>
-
-<br/>
-
-GitHub's contribution grid can be turned into an animated snake that "eats" your contributions, but it needs a small one-time GitHub Action in **this repo** (`VinamraGupta01/VinamraGupta01`) since it renders to a file in your own repo, not a live URL:
-
-1. Go to **Settings → Actions → General** and enable Actions for this repo.
-2. Add `.github/workflows/snake.yml`:
-
-```yaml
-name: generate snake
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch: {}
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: VinamraGupta01
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
 3. After the first run, embed it here:
