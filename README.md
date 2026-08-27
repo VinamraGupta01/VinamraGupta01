@@ -367,50 +367,7 @@ Explore the full set of repositories, including work-in-progress backend experim
 
 ---
 
-# `05` — GITHUB ANALYTICS
-
-<div align="center">
-
-### GitHub Statistics
-
-<br/>
-
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api?username=VinamraGupta01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=2563EB&text_color=C9D1D9&rank_icon=github"
-alt="GitHub Statistics"
-/>
-
-<img
-height="180"
-src="https://streak-stats.demolab.com/?user=VinamraGupta01&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=2563EB&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=C9D1D9"
-alt="GitHub Streak"
-/>
-
-<br/><br/>
-
-### Most Used Languages
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinamraGupta01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9"
-alt="Top Languages"
-/>
-
-<br/><br/>
-
-### Contribution Activity
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=VinamraGupta01&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=2563EB&point=FFFFFF&area=true&area_color=1e3a8a"
-width="100%"
-alt="GitHub Contribution Graph"
-/>
-
-</div>
-
----
-
-# `06` — CONTRIBUTION ACTIVITY
+# `05` — CONTRIBUTION ACTIVITY
 
 <div align="center">
 
@@ -424,7 +381,7 @@ alt="GitHub Contribution Snake"
 
 ---
 
-# `07` — CONNECT
+# `06` — CONNECT
 
 <div align="center">
 
