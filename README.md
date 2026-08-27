@@ -273,7 +273,7 @@ Explore the full set of repositories, including work-in-progress backend experim
 </div>
 
 <details>
-<summary><b>🐍 Want an animated contribution snake too? (one-time setup)</b></summary>
+
 <br/>
 
 GitHub's contribution grid can be turned into an animated snake that "eats" your contributions, but it needs a small one-time GitHub Action in **this repo** (`VinamraGupta01/VinamraGupta01`) since it renders to a file in your own repo, not a live URL:
