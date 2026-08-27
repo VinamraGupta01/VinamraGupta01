@@ -297,3 +297,97 @@ JPA Persistence
                 Docker        Render        Vercel
                                               │
                                            Railway
+
+04 — FEATURED PROJECTS
+<table width="100%"> <tr> <!-- ========================= FIT TRACK ==================== --> <td width="50%" valign="top">
+🏋️ Fit Track
+
+Fitness tracking & competition, SaaS-style application.
+
+Spring Boot · Spring Security · JWT · MySQL · React
+
+Highlights
+
+RESTful backend with authenticated user sessions
+JWT-secured API endpoints
+React frontend consuming live backend data
+</td> <!-- ========================= PLACEMENTPRO ================== --> <td width="50%" valign="top">
+🎓 PlacementPro
+
+Placement management system for tracking drives, students, and outcomes.
+
+Spring Boot · Spring Data JPA · MySQL · React
+
+Highlights
+
+CRUD-driven backend with relational data modeling
+Role-based access to placement records
+API-first design consumed by a React dashboard
+</td> </tr> <tr> <!-- ========================= DEVFLOW ====================== --> <td width="50%" valign="top">
+⚙️ DevFlow
+
+Software/project-oriented application for managing development workflows.
+
+Spring Boot · REST APIs · Docker · React
+
+Highlights
+
+Dockerized Spring Boot backend
+Deployed and debugged in a production-like environment
+Clean separation between API layer and frontend
+</td> <!-- ========================= MORE REPOS ==================== --> <td width="50%" valign="top">
+📌 More on GitHub
+
+Explore the full set of repositories, including work-in-progress backend experiments and DSA practice.
+
+<br/> <a href="https://github.com/VinamraGupta01?tab=repositories"> <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOS-2563EB?style=flat-square&logo=github&logoColor=white" alt="View All Repositories" /> </a> </td> </tr> </table>
+
+Add live-demo / source badges to each project card once repos are public — placeholders were intentionally left out rather than pointing to broken links.
+
+05 — GITHUB ANALYTICS
+<div align="center"> <!-- ===================== GITHUB STATS ===================== -->
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=VinamraGupta01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=2563EB&text_color=C9D1D9" alt="GitHub Stats" />
+
+<!-- ===================== STREAK =========================== -->
+
+<img height="165" src="https://streak-stats.demolab.com/?user=VinamraGupta01&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=2563EB&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+
+<br/> <!-- ===================== TOP LANGUAGES ==================== -->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinamraGupta01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Top Languages" />
+
+<br/><br/>
+
+<!-- ================= CONTRIBUTION GRAPH ================== -->
+Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VinamraGupta01&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=2563EB&point=FFFFFF&area=true&area_color=1e3a8a" width="100%" alt="GitHub Contribution Graph" />
+
+</div>
+06 — CONTRIBUTION SNAKE
+<div align="center"> <!-- This image is generated automatically by the GitHub Action below. -->
+
+<img src="https://raw.githubusercontent.com/VinamraGupta01/VinamraGupta01/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
+
+</div>
+07 — CONNECT
+<div align="center"> <a href="https://www.linkedin.com/in/vinamra-gupta-0aa4b4375/"> <img src="https://img.shields.io/badge/LINKEDIN-Vinamra%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>
+
+ 
+
+<a href="mailto:vinamra.gupta.dev@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-vinamra.gupta.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a>
+
+ 
+
+<a href="https://github.com/VinamraGupta01"> <img src="https://img.shields.io/badge/GITHUB-VinamraGupta01-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a>
+
+<br/><br/>
+
+<i>Learn. Build. Improve.</i>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,45:1e3a8a,75:0f172a,100:020617&height=100&section=footer" width="100%" alt="Footer" />
+
+</div> ```
