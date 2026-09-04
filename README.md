@@ -269,3 +269,122 @@ JPA Persistence
                 Docker        Render        Railway
                   │
                   └────────────── Vercel
+</div>
+04 — FEATURED PROJECTS
+<table width="100%"> <tr> <td width="50%" valign="top">
+🏋️ Fit Track
+
+Fitness tracking and private competition platform.
+
+Spring Boot · Spring Security · JWT
+MySQL · React
+
+Highlights
+
+RESTful backend with authenticated users
+JWT-secured API endpoints
+Workout and progress tracking
+React frontend consuming backend APIs
+SaaS-oriented product architecture
+</td> <td width="50%" valign="top">
+🎓 PlacementPro
+
+Placement management system for students, drives and outcomes.
+
+Spring Boot · Spring Data JPA
+MySQL · React
+
+Highlights
+
+CRUD-based backend
+Relational database modeling
+Placement record management
+Role-based access
+API-driven React dashboard
+</td> </tr> <tr> <td width="50%" valign="top">
+⚙️ DevFlow
+
+Development workflow and project-oriented application.
+
+Spring Boot · REST APIs
+Docker · React
+
+Highlights
+
+Dockerized Spring Boot backend
+REST API architecture
+Frontend/backend separation
+Production-like deployment workflow
+Deployment and server debugging experience
+</td> <td width="50%" valign="top">
+📌 More Projects
+
+Explore my GitHub repositories for backend experiments, Java development, DSA practice and additional projects.
+
+<br/><br/>
+
+<a href="https://github.com/VinamraGupta01?tab=repositories"> <img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Repositories" /> </a> </td> </tr> </table>
+05 — GITHUB ACTIVITY
+<div align="center">
+Contribution Activity
+
+<img src="https://raw.githubusercontent.com/VinamraGupta01/VinamraGupta01/output/pacman-contribution-graph-dark.svg" width="100%" alt="Pacman Contribution Graph" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=VinamraGupta01&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="49%" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VinamraGupta01&theme=github-dark-blue&hide_border=true" width="49%" alt="GitHub Streak" />
+
+</div>
+06 — CURRENT DIRECTION
+<div align="center">
+JAVA
+  │
+  ├── Core Java
+  ├── OOP
+  ├── Collections
+  ├── Streams
+  ├── Multithreading
+  └── DSA
+        │
+        ▼
+SPRING ECOSYSTEM
+  │
+  ├── Spring Framework
+  ├── Spring Boot
+  ├── Spring Security
+  ├── Spring Data JPA
+  └── Hibernate
+        │
+        ▼
+BACKEND ENGINEERING
+  │
+  ├── REST APIs
+  ├── Authentication
+  ├── Authorization
+  ├── Database Design
+  └── System Design
+        │
+        ▼
+DEPLOYMENT
+  │
+  ├── Git / GitHub
+  ├── Docker
+  ├── CI/CD
+  └── Cloud
+</div>
+07 — CONNECT
+<div align="center">
+Let's connect and build something meaningful.
+<br/> <a href="https://github.com/VinamraGupta01"> <img src="https://img.shields.io/badge/GITHUB-VINAMRAGUPTA01-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> &nbsp; <a href="https://www.linkedin.com/in/vinamra-gupta-0aa4b4375/"> <img src="https://img.shields.io/badge/LINKEDIN-VINAMRA%20GUPTA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> &nbsp; <a href="mailto:vinamra.gupta.dev@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a>
+
+<br/><br/>
+
+<i>Learn. Build. Improve.</i>
+
+</div> <br/> <!-- ========================================================= --> <!-- FOOTER --> <!-- ========================================================= --> <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,45:1e3a8a,75:0f172a,100:020617&height=130&section=footer" width="100%" alt="Footer" />
+
+</div> <!-- ========================================================= --> <!-- END OF PROFILE README --> <!-- ========================================================= -->
