@@ -285,7 +285,6 @@ Explore my GitHub repositories for backend experiments, Java development, DSA pr
 <br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=VinamraGupta01&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VinamraGupta01&theme=github-dark-blue&hide_border=true" width="49%" alt="GitHub Streak" />
 
 </div>
 
@@ -295,42 +294,87 @@ Explore my GitHub repositories for backend experiments, Java development, DSA pr
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="25%">
+
+### ☕ JAVA
+
+`Core Java`
+
+`OOP`
+
+`Collections`
+
+`Streams`
+
+`Multithreading`
+
+`DSA`
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌱 SPRING
+
+`Spring Framework`
+
+`Spring Boot`
+
+`Spring Security`
+
+`Spring Data JPA`
+
+`Hibernate`
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️ BACKEND
+
+`REST APIs`
+
+`Authentication`
+
+`Authorization`
+
+`Database Design`
+
+`System Design`
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀 DEPLOYMENT
+
+`Git / GitHub`
+
+`Docker`
+
+`CI / CD`
+
+`Cloud`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 ```text
 JAVA
   │
-  ├── Core Java
-  ├── OOP
-  ├── Collections
-  ├── Streams
-  ├── Multithreading
-  └── DSA
-        │
-        ▼
+  ▼
 SPRING ECOSYSTEM
   │
-  ├── Spring Framework
-  ├── Spring Boot
-  ├── Spring Security
-  ├── Spring Data JPA
-  └── Hibernate
-        │
-        ▼
+  ▼
 BACKEND ENGINEERING
   │
-  ├── REST APIs
-  ├── Authentication
-  ├── Authorization
-  ├── Database Design
-  └── System Design
-        │
-        ▼
-DEPLOYMENT
-  │
-  ├── Git / GitHub
-  ├── Docker
-  ├── CI/CD
-  └── Cloud
-```
+  ▼
+DEPLOYMENT & CLOUD
 
 </div>
 
@@ -341,20 +385,6 @@ DEPLOYMENT
 <div align="center">
 
 Let's connect and build something meaningful.
-
-<br/>
-
-<a href="https://github.com/VinamraGupta01">
-  <img src="https://img.shields.io/badge/GITHUB-VINAMRAGUPTA01-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/vinamra-gupta-0aa4b4375/">
-  <img src="https://img.shields.io/badge/LINKEDIN-VINAMRA%20GUPTA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:vinamra.gupta.dev@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
 
 <br/><br/>
 
