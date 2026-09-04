@@ -1,4 +1,3 @@
-
 <!-- ========================================================= -->
 <!--                    VINAMRA GUPTA                          -->
 <!--                 GitHub Profile README                     -->
@@ -27,18 +26,14 @@
     alt="GitHub"
   />
 </a>
-
 &nbsp;
-
 <a href="https://www.linkedin.com/in/vinamra-gupta-0aa4b4375/">
   <img
     src="https://img.shields.io/badge/LINKEDIN-VINAMRA%20GUPTA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
   />
 </a>
-
 &nbsp;
-
 <a href="mailto:vinamra.gupta.dev@gmail.com">
   <img
     src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
@@ -52,7 +47,7 @@
   src="https://komarev.com/ghpvc/?username=VinamraGupta01&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge"
   alt="Profile Views"
 />
-
+&nbsp;
 <img
   src="https://img.shields.io/github/followers/VinamraGupta01?label=FOLLOWERS&style=for-the-badge&color=2563eb&labelColor=111827"
   alt="GitHub Followers"
@@ -74,11 +69,11 @@
 
 </div>
 
-I'm a **BCA student and backend-focused full-stack developer** building practical applications on strong backend foundations.
+I'm a **BCA student and backend-focused full-stack developer** focused on building practical, scalable and deployable web applications.
 
-My primary focus is **Java backend development** — designing REST APIs, implementing business logic, securing applications with Spring Security and JWT, working with relational databases, and connecting those services to modern React frontends.
+My primary focus is **Java backend development** — designing REST APIs, implementing business logic, securing applications with Spring Security and JWT, working with relational databases, and integrating backend services with modern React frontends.
 
-I also work with **Docker and cloud deployment workflows**, turning projects from local applications into deployable systems.
+I also work with **Docker, Git and cloud deployment workflows**, taking applications from development to production-ready environments.
 
 <br/>
 
@@ -263,187 +258,14 @@ JPA Persistence
                  │                             │
                  └──────────────┬──────────────┘
                                 │
-                             JPA /
-                           Hibernate
+                         JPA / Hibernate
                                 │
                               MySQL
                                 │
-                           Deployment
+                           DEPLOYMENT
                                 │
                   ┌─────────────┼─────────────┐
                   │             │             │
-                Docker        Render        Vercel
-                                              │
-                                           Railway
-````
-
-</div>
-
----
-
-# `04` — FEATURED PROJECTS
-
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-## 🏋️ Fit Track
-
-**Fitness tracking & competition, SaaS-style application.**
-
-`Spring Boot` · `Spring Security` · `JWT`
-`MySQL` · `React`
-
-**Highlights**
-
-* RESTful backend with authenticated user sessions
-* JWT-secured API endpoints
-* React frontend consuming live backend data
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🎓 PlacementPro
-
-**Placement management system for tracking drives, students, and outcomes.**
-
-`Spring Boot` · `Spring Data JPA`
-`MySQL` · `React`
-
-**Highlights**
-
-* CRUD-driven backend with relational data modeling
-* Role-based access to placement records
-* API-first design consumed by a React dashboard
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## ⚙️ DevFlow
-
-**Software/project-oriented application for managing development workflows.**
-
-`Spring Boot` · `REST APIs`
-`Docker` · `React`
-
-**Highlights**
-
-* Dockerized Spring Boot backend
-* Deployed and debugged in a production-like environment
-* Clean separation between API layer and frontend
-
-</td>
-
-<td width="50%" valign="top">
-
-## 📌 More on GitHub
-
-Explore the full set of repositories, including work-in-progress backend experiments and DSA practice.
-
-<br/><br/>
-
-<a href="https://github.com/VinamraGupta01?tab=repositories">
-<img
-  src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-2563EB?style=for-the-badge&logo=github&logoColor=white"
-  alt="Explore All Repositories"
-/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-> **Project demos and source links will be added once the respective repositories are public and deployment URLs are stable.**
-
----
-
-# `05` — CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img
-src="https://raw.githubusercontent.com/VinamraGupta01/VinamraGupta01/output/github-contribution-grid-snake-dark.svg"
-width="100%"
-alt="GitHub Contribution Snake"
-/>
-
-</div>
-
----
-
-# `06` — CONNECT
-
-<div align="center">
-
-### Let's connect and build something meaningful.
-
-<br/>
-
-<a href="https://github.com/VinamraGupta01">
-<img
-  src="https://img.shields.io/badge/GITHUB-VINAMRAGUPTA01-111827?style=for-the-badge&logo=github&logoColor=white"
-  alt="GitHub"
-/>
-</a>
-
- 
-
-<a href="https://www.linkedin.com/in/vinamra-gupta-0aa4b4375/">
-<img
-  src="https://img.shields.io/badge/LINKEDIN-VINAMRA%20GUPTA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-  alt="LinkedIn"
-/>
-</a>
-
- 
-
-<a href="mailto:vinamra.gupta.dev@gmail.com">
-<img
-  src="https://img.shields.io/badge/EMAIL-VINAMRA.GUPTA.DEV%40GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-  alt="Email"
-/>
-</a>
-
-<br/><br/>
-
-<i>Learn. Build. Improve.</i>
-
-</div>
-
-<br/>
-
-<!-- ========================================================= -->
-
-<!--                          FOOTER                           -->
-
-<!-- ========================================================= -->
-
-<div align="center">
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,45:1e3a8a,75:0f172a,100:020617&height=130&section=footer"
-width="100%"
-alt="Footer"
-/>
-
-</div>
-
-<!-- ========================================================= -->
-
-<!--                 SNAKE GITHUB ACTION                      -->
-
-<!-- ========================================================= -->
-
-
-```
-
+                Docker        Render        Railway
+                  │
+                  └────────────── Vercel
